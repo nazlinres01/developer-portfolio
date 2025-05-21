@@ -1,6 +1,6 @@
 # Nazlı Nur Esmeray - Kişisel Web Sitesi
 
-Bu proje, yazılım geliştirici Nazlı Nur Esmeray'ın portfolyo ve blog web sitesidir. Modern web teknolojileri kullanılarak hazırlanmıştır.
+Bu proje, yazılım geliştirici Nazlı Nur Esmeray'ın portfolyo sitesidir. Modern web teknolojileri kullanılarak hazırlanmıştır.
 
 ## Özellikler
 
