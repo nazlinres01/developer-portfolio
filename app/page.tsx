@@ -126,7 +126,7 @@ export default function Home() {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden neon-border">
               <Image
-                src="/placeholder.svg?height=320&width=320"
+                src="/nazli.jpg"
                 alt="Nazlı Nur Esmeray"
                 fill
                 className="object-cover"

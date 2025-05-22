@@ -22,7 +22,7 @@ export default function AboutPage() {
             <div className="sticky top-24">
               <div className="relative w-full h-80 rounded-lg overflow-hidden neon-border mb-6">
                 <Image
-                  src="/placeholder.svg?height=400&width=300"
+                  src="/nazli2.jpg"
                   alt="Nazlı Nur Esmeray"
                   fill
                   className="object-cover"
