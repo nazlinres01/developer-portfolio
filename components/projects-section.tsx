@@ -11,6 +11,16 @@ import Image from "next/image"
 export default function ProjectsSection() {
   const projects = [
     {
+      title: "Uzman Yapsın – Uçtan Uca Dijital Proje Geliştirme",
+      description:
+        "Ortak yürüttüğümüz bu projede, sadece arayüz tasarımıyla sınırlı kalmayıp; frontend, backend, veritabanı yönetimi ve siber güvenlik dahil olmak üzere uçtan uca çözüm sağladık. Dijital projelerin fikir aşamasından yayına kadar tüm süreçlerinde aktif rol alarak, kullanıcı odaklı ve sürdürülebilir çözümler ürettik.",
+      image: "/placeholder.svg?height=400&width=600",
+      link: "https://uzmanyapsin.com.tr/",
+      github: "",
+      tags: ["UI/UX", "Frontend", "Backend", "Veritabanı", "Siber Güvenlik", "Proje Yönetimi"],
+    },
+
+    {
       title: "Web Sitesi İyileştirme, E-ticaret Sitesi Yönetimi",
       description:
         "Babil Otomasyon'da web sitelerinin geliştirilmesi ve performans optimizasyonu süreçlerine katkı sağladım. SEO iyileştirmeleri yaparak, web sitelerinin arama motorlarındaki görünürlüğünü artırdım ve modern web teknolojilerini entegre ederek kullanıcı deneyimini iyileştirdim.",
