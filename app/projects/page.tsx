@@ -20,7 +20,6 @@ export default function ProjectsPage() {
       image: "/uzmanyapsin.png",
       date: "Mart 2025",
       link: "https://uzmanyapsin.com.tr/",
-      github: "",
       tags: [
         "Web Tasarımı",
         "Mobil Uygulama",
@@ -41,7 +40,6 @@ export default function ProjectsPage() {
       image: "/emekpuan.png",
       date: "Nisan 2025",
       link: "https://emekpuan.com.tr/",
-      github: "",
       tags: [
         "Next.js",
         "Tailwind CSS",
@@ -61,8 +59,7 @@ export default function ProjectsPage() {
         "Yanımda, özellikle engelli bireyler ve panik bozukluk yaşayan kullanıcılar için tasarlanmış, mobil cihazlar üzerinden çalışan bir acil durum yardım uygulamasıdır. Kullanıcılar, tek tuşla önceden tanımlı kişilere veya gönüllü destek ağına konumlarıyla birlikte yardım çağrısı gönderebilir. Uygulama iOS ve Android platformları için React Native teknolojisi ile geliştirilmektedir. Toplumsal dayanışmayı dijital çözümlerle birleştiren Yanımda, bireylerin kendilerini güvende hissetmelerini sağlayacak kullanıcı dostu bir deneyim sunmayı hedefliyor.",
       image: "/yanimda.png",
       date: "Mayıs 2025",
-      link: "", // Yayında değilse boş bırakılabilir veya "#"
-      github: "",
+      link: "https://yanimda.com.tr/", // Yayında değilse boş bırakılabilir veya "#"
       tags: [
         "Mobil Uygulama",
         "React Native",
@@ -107,7 +104,6 @@ export default function ProjectsPage() {
       image: "/ecommerce-site.png",
       date: "2025",
       link: "https://nazli-ecommerce.vercel.app", // varsa demo link
-      github: "https://github.com/kullaniciadi/ecommerce-frontend", // varsa GitHub repo
       tags: [
         "Next.js",
         "React",
@@ -127,8 +123,7 @@ export default function ProjectsPage() {
         "Bu proje, tamamen frontend teknolojileri ile geliştirilmiş olup, film verileri uygulama içerisinde statik olarak yönetilmektedir. Kullanıcılar, zengin içerik ve detaylı film bilgilerine hızlı ve akıcı bir arayüz üzerinden erişim sağlamaktadır. Modern React ve Next.js teknikleri kullanılarak SEO uyumlu ve responsive bir deneyim sunulmuştur.",
       image: "/filmsite.png",
       date: "Mayıs 2025",
-      link: "https://manual-movies-site.com",
-      github: "https://github.com/username/manual-movies-frontend",
+      link: "https://cinema-world-nine.vercel.app/",
       tags: ["Next.js", "React", "Frontend", "Statik Veri", "Film Keşif"],
     },
     {
@@ -139,8 +134,7 @@ export default function ProjectsPage() {
         "Bu proje, uzaktan çalışmak isteyen bireyler için iş ilanlarını listeleyen bir platformun kullanıcı arayüzünü kapsamaktadır. Uygulama; iş ilanı arama, filtreleme, favorilere ekleme, başvuru yapma ve başvuruları takip etme gibi temel işlevleri içeren kapsamlı bir frontend mimarisi sunar. Tüm sayfalar React ve Next.js kullanılarak performans ve erişilebilirlik öncelikli şekilde tasarlanmıştır. Tasarımda Tailwind CSS ile modern ve ölçeklenebilir bir yapı benimsenmiştir. Proje, ileri düzey komponent yapısı, route yönetimi ve kullanıcı deneyimini önceleyen detaylarla profesyonel bir arayüz geliştirme pratiği sunar.",
       image: "/remote-work.png",
       date: "Mayıs 2025",
-      link: "https://remote-work-finder.vercel.app",
-      github: "https://github.com/kullaniciadi/remote-work-finder-frontend",
+      link: "https://remote-job-platform.vercel.app/",
       tags: [
         "Next.js",
         "React",
@@ -160,8 +154,7 @@ export default function ProjectsPage() {
         "Bu proje, yazılım geliştirme alanındaki yetkinliklerimi ve hayata geçirdiğim projeleri sergilemek amacıyla geliştirdiğim modern bir portfolio web sitesidir. Next.js ile geliştirilen frontend yapısı, React bileşen mimarisiyle modüler olarak organize edilmiştir. Tailwind CSS ile oluşturulan stil yapısı sayesinde hem mobil uyumlu hem de hızlı yüklenen bir kullanıcı arayüzü sunulmuştur. Sayfalar arasında; Hakkımda, Projeler, Hizmetler, İletişim ve CV bölümleri bulunmaktadır. SEO uyumluluğu, sade arayüzü ve etkileyici animasyonlarıyla profesyonel dijital kimliğimi yansıtmaktadır.",
       image: "/portfolio-site.png",
       date: "2025",
-      link: "https://nazli.dev", // varsa kendi domainin veya vercel linki
-      github: "https://github.com/kullaniciadi/personal-portfolio", // varsa GitHub repo
+      link: "https://nazlinuresmeray.com.tr/", // varsa kendi domainin veya vercel linki
       tags: [
         "Next.js",
         "React",
