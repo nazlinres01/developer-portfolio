@@ -223,25 +223,23 @@ export default function AboutPage() {
                         <li className="flex items-start">
                           <span className="text-primary mr-2">•</span>
                           <span>
-                            <strong>Teknik Blog Yazarlığı:</strong> Yazılım dünyasında öğrendiklerimi toplulukla
-                            paylaşmak için blog yazıları yazıyorum.
+                            <strong>Teknik Blog Yazarlığı:</strong> Yazılım dünyasında öğrendiklerimi toplulukla paylaşmak için blog yazıları yazıyorum.
                           </span>
                         </li>
                         <li className="flex items-start">
                           <span className="text-primary mr-2">•</span>
                           <span>
-                            <strong>Fotoğrafçılık:</strong> Doğa ve şehir manzaralarını fotoğraflamayı seviyorum.
-                            Fotoğrafçılık, yaratıcılığımı farklı bir alanda ifade etmemi sağlıyor.
+                            <strong>Yabancı Dil Öğrenimi:</strong> Farklı dilleri öğrenmek ve kültürleri keşfetmek beni heyecanlandırıyor. Şu anda Japonca öğrenmeye odaklanıyorum.
                           </span>
                         </li>
                         <li className="flex items-start">
                           <span className="text-primary mr-2">•</span>
                           <span>
-                            <strong>Yabancı Dil Öğrenimi:</strong> Farklı dilleri öğrenmek ve kültürleri keşfetmek beni
-                            heyecanlandırıyor. Şu anda Japonca öğrenmeye odaklanıyorum.
+                            <strong>Spor:</strong> Fiziksel ve zihinsel dengeyi sağlamak için düzenli olarak koşu ve yürüyüş yapıyorum.
                           </span>
                         </li>
                       </ul>
+
                     </CardContent>
                   </Card>
                 </div>

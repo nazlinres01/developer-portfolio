@@ -9,7 +9,7 @@ import { Briefcase, Calendar, MapPin } from "lucide-react"
 export default function ExperiencePage() {
   const experiences = [
     {
-      title: "Bilgi İşlem Elemanı",
+      title: "Bilgi İşlem Elemanı - Öğrenci",
       company: "Babil Otomasyon",
       location: "Kocaeli",
       period: "Aralık 2024 - Şubat 2025",
@@ -25,7 +25,7 @@ export default function ExperiencePage() {
       skills: ["Web sitesi yönetimi", "SEO araçları", "E-ticaret platformları", "Teknik destek", "IT çözümleri"],
     },
     {
-      title: "Yazılım Test Mühendisi",
+      title: "Yazılım Test Mühendisi - Öğrenci - Proje Bazlı",
       company: "Gosb Teknopark Vtek Bilişim Ve İletişim Teknolojileri",
       location: "İstanbul",
       period: "Eylül 2024 - Kasım 2024",
@@ -41,7 +41,7 @@ export default function ExperiencePage() {
       skills: ["E2E Test", "CodeceptJS", "Cypress", "Vue.js", "Docker", "Redis"],
     },
     {
-      title: "Web Yazılım Geliştirici",
+      title: "Web Yazılım Geliştirici - Öğrenci",
       company: "Okosis Otomasyon Ve Kontrol Sistemleri",
       location: "Kocaeli",
       period: "Aralık 2023 - Eylül 2024",
@@ -57,7 +57,7 @@ export default function ExperiencePage() {
       skills: ["Angular", ".NET", "MongoDB", "Web GUI tasarımı", "SCADA", "PLC"],
     },
     {
-      title: "Back-End Geliştirici",
+      title: "Back-End Geliştirici - Stajyer",
       company: "Primeware Yazılım San. ve Tic. Ltd. Sti.",
       location: "İstanbul",
       period: "Temmuz 2023 - Ağustos 2023",
@@ -73,7 +73,7 @@ export default function ExperiencePage() {
       skills: [".NET", "DevExpress", "SQL", "Masaüstü Uygulama Geliştirme"],
     },
     {
-      title: "Tam Yığın Geliştirici",
+      title: "Tam Yığın Geliştirici  - Stajyer",
       company: "Akım Metal Ar-Ge Merkezi",
       location: "İstanbul",
       period: "Eylül 2022 - Ekim 2022",

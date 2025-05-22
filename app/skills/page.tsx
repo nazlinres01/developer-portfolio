@@ -9,21 +9,20 @@ import { Code, Database, Globe, Server, Shield, Smartphone } from "lucide-react"
 
 export default function SkillsPage() {
   const programmingSkills = [
-    { name: "JavaScript", level: 85 },
-    { name: "HTML & CSS", level: 90 },
-    { name: "Python", level: 75 },
-    { name: "C#", level: 70 },
-    { name: "TypeScript", level: 80 },
-    { name: "Java", level: 65 },
+    { name: "JavaScript", level: 65 },
+    { name: "HTML & CSS", level: 70 },
+    { name: "Python", level: 40 },
+    { name: "C#", level: 55 },
+    { name: "TypeScript", level: 45 },
   ]
 
   const frameworkSkills = [
-    { name: "Angular", level: 80 },
-    { name: "React", level: 75 },
-    { name: "Node.js", level: 70 },
-    { name: ".NET", level: 65 },
-    { name: "MongoDB", level: 75 },
-    { name: "SQL", level: 80 },
+    { name: "Angular", level: 60 },
+    { name: "React", level: 65 },
+    { name: "Node.js", level: 50 },
+    { name: ".NET", level: 50 },
+    { name: "MongoDB", level: 45 },
+    { name: "SQL", level: 45 },
   ]
 
   const skillCategories = [
@@ -89,7 +88,10 @@ export default function SkillsPage() {
     "Responsive Design",
     "Web Güvenliği",
     "API Entegrasyonu",
-    "CI/CD",
+    "Cisco",
+    "Kali Linux",
+    "Metasploit",
+    "Wireshark",
   ]
 
   return (
